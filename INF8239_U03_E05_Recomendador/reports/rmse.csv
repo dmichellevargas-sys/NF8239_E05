@@ -1,0 +1,7 @@
+segment,model,ratings,rmse
+calido,media global,1311,1.1221620863059079
+calido,media de la película,1311,1.059278028622493
+calido,factorización,1311,0.9220776789418763
+frio_k5,media global,15400,1.0549193994093693
+frio_k5,media de la película,15400,1.0227133688789094
+frio_k5,factorización,15400,1.0079021451616434

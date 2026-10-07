@@ -1,0 +1,15 @@
+{
+  "cutoff_quantile": 0.8,
+  "cutoff_timestamp": 1458635171,
+  "cutoff_date": "2016-03-22",
+  "train_ratings": 80668,
+  "test_ratings": 20168,
+  "train_users": 522,
+  "test_users": 116,
+  "warm_test_users": 28,
+  "cold_test_users": 88,
+  "catalog_size": 7867,
+  "test_ratings_on_items_new_after_cutoff": 0.15093216977389926,
+  "leave_one_out_test_events_with_later_training_data": 0.9983606557377049,
+  "leave_one_out_train_ratings_after_median_test_time": 0.5043002813641171
+}

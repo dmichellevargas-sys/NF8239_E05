@@ -1,0 +1,39 @@
+{
+  "ratings": 100836,
+  "movies": 9742,
+  "users": 610,
+  "rated_movies": 9724,
+  "density": 0.016999683055613623,
+  "first_rating": "1996-03-29 18:36:55",
+  "last_rating": "2018-09-24 14:27:30",
+  "rating_mean": 3.501556983616962,
+  "rating_distribution": {
+    "0.5": 1370,
+    "1.0": 2811,
+    "1.5": 1791,
+    "2.0": 7551,
+    "2.5": 5550,
+    "3.0": 20047,
+    "3.5": 13136,
+    "4.0": 26818,
+    "4.5": 8551,
+    "5.0": 13211
+  },
+  "share_ratings_ge_4": 0.4817723828791305,
+  "ratings_per_user": {
+    "min": 20,
+    "median": 70.5,
+    "max": 2698
+  },
+  "ratings_per_movie": {
+    "median": 3.0,
+    "share_movies_with_1_rating": 0.3543809132044426,
+    "share_movies_with_lt5_ratings": 0.6246400658165364
+  },
+  "share_ratings_top10pct_movies": 0.6002221428854774,
+  "movies_without_ratings": 18,
+  "movies_without_genres": 34,
+  "movies_without_year": 13,
+  "duplicate_user_movie_pairs": 0,
+  "null_values": 0
+}
